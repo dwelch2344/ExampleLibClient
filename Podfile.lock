@@ -1,0 +1,13 @@
+PODS:
+  - ExampleCoreLib (0.0.3)
+  - ExampleRestAdapterLib (0.0.4):
+    - ExampleCoreLib
+
+DEPENDENCIES:
+  - ExampleRestAdapterLib (~> 0.0.4)
+
+SPEC CHECKSUMS:
+  ExampleCoreLib: 8ae476265584520939371c8caef5d97784db90b3
+  ExampleRestAdapterLib: 381f8e01067dca161a796c631fe7424177ee5dd0
+
+COCOAPODS: 0.20.2
